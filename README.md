@@ -82,10 +82,16 @@ You can interact with the report [here]()
 - Only 10% of these cases were domestic with a total count of **3523**.
 - child relatd crimes were at an all time high in 2001 and 2002 with a total count of **16,737** and **13,233** respectively. There was a **99.89%** drop in crime in 2003 amd remained very low but has strted to see a spike in 2023 where crime rate increased by **1400%** and is presently at **1715.**
 - Battery was the most prevalent crime under child_related crimes, followed closely by Assault, Offense involving children, Theft and Liqour law violation in top 5 and prostitution, interfernce with public officer, obscenity, homicide and stalking in bottom 5.
-- The top locations for child-related crimes are schools, residence, apartment and streets. while the least common locations for crimes are airport building non-terminal, saving and loan, appliance stores, athletic clubs and movie theaters.
+- The top locations for child-related crimes are schools, residence, apartment and streets. while the least common locations for child-related crimes are airport building non-terminal, saving and loan, appliance stores, athletic clubs and movie theaters.
   
 ## Sex Crimes
 ![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/sex%20crimes.jpg)
-
+- A total count of **23,988** sex crimes were recorded under IUCR between 2001 till present.
+- 61% of these cases resulted in arrest, with a total count of **14,550** arrests made.
+- only 11% of these cases were domestic with a total count of **2630**.
+- sex crimes were at an all time high in 2001 and 2002 wiith a total count of **11,172** and **8798** respectively. there was a **99.60%** drop in crime in 2003, this drop lasted until 2007 when the sex crime count started on an upward trend and experienced a huge spike in 2023 when sex crimes increased by **450%** and is presently at **1026.**
+- there are six distinct primary type of offenses under this subcategory. the most prevalent of these offenses is prostitution with a total count of **11,172** and the least occuring is human trafficking with just **5** cases reported.
+- The top locations for sex crimes are streets, residence, apartment, and sidewalks, while the least common location for sex crimes are airports, boat/watercraft, and appliance stores
 ## Homicides
 ![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/homicides.jpg)
+
