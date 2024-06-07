@@ -71,13 +71,19 @@ You can interact with the report [here]()
 - A total count of **1,048,575** crimes were committed under IUCR between 2001 till present.
 - Only 27% of these cases resulted in an arrest, with a total count of **281,225** arrests made.
 - 17% percent of these cases where domestic, with a total count of **174,533**.
-- Crime was at an all time in 2001 and 2002 with total count of **484,154** and **382,497** respectively. There was a **99.39%** drop in crime in 2003 and it there wasnt any major difference in the crime rate in the years to come until 2023 when a **2000%** increase in crime under the IUCR and it's presently at a total count of **69,547.**
-- There are 33 distinct primary type of offenses in the IUCR dataset which can be seen in the report, Theft being the most prevalent crime, followed closely by Battery, Criminal damage, Narcotics and assualt in top 5 and domestic violence, non-criminal offense, human trafficking, ritualism, and other narcotic violations in bottom 5.
-- 
+- Crime was at an all time high in 2001 and 2002 with total count of **484,154** and **382,497** respectively. There was a **99.39%** drop in crime in 2003 and it there wasnt any major difference in the crime rate in the years to come until 2023 when a **2000%** increase in crime under the IUCR and it's presently at a total count of **69,547.**
+- There are **33** distinct primary type of offenses in the IUCR dataset which can be seen in the report, Theft being the most prevalent crime, followed closely by Battery, Criminal damage, Narcotics and assualt in top 5 and domestic violence, non-criminal offense, human trafficking, ritualism, and other narcotic violations in bottom 5.
+- the top locations for overall crimes are the streets, residence, apartments, and sidewalks. while the least common locations for crime are loading dock, lagoon, funeral parlor, and junkyards.
 
 ## Child-Related Crimes
 ![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/child-related%20crimes.jpg)
-
+- A total count of **34,292** chidl-related crimes(crimes committed by minors or against minors) were recorded under IUCR between 2001 till present.
+- 30% of these cases resulted in an arrest, with a total count of **10,118** arrests made.
+- Only 10% of these cases were domestic with a total count of **3523**.
+- child relatd crimes were at an all time high in 2001 and 2002 with a total count of **16,737** and **13,233** respectively. There was a **99.89%** drop in crime in 2003 amd remained very low but has strted to see a spike in 2023 where crime rate increased by **1400%** and is presently at **1715.**
+- Battery was the most prevalent crime under child_related crimes, followed closely by Assault, Offense involving children, Theft and Liqour law violation in top 5 and prostitution, interfernce with public officer, obscenity, homicide and stalking in bottom 5.
+- The top locations for child-related crimes are schools, residence, apartment and streets. while the least common locations for crimes are airport building non-terminal, saving and loan, appliance stores, athletic clubs and movie theaters.
+  
 ## Sex Crimes
 ![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/sex%20crimes.jpg)
 
