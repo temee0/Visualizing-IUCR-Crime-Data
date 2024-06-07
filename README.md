@@ -6,7 +6,7 @@ This report is a meticulous examination of crimes cataloged under the **Illinois
 
 Structured Query Language (SQL) was utilized to understand the crime dynamics, thereby facilitating informed decision-making and targeted interventions. To further enhance our insights and analysis, I used PowerBI to bring the data to life through interactive and visually compelling dashboards. This combination of SQL and Power BI not only deepened our understanding of the crime trends but also allowed for more effective communication of my findings to end users.
 
-##Problem Statement
+## Problem Statement
 
 #### 1. Total Crime Count
 What is the total count of reported crimes?
@@ -32,8 +32,6 @@ What are the trends in domestic cases over the years?
 #### 7. Arrests and Prosecutions
 How many arrests have been made?
 What proportion of overall cases or cases in specific subsections resulted in arrests?
-
-
 
 ## Analysis Toolkits
 ### Structured Query Language (MySQL):
@@ -70,8 +68,12 @@ You can interact with the report [here]()
 
 ## General Crimes
 ![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/general%20crimes.jpg)
-
-
+- A total count of **1,048,575** crimes were committed under IUCR between 2001 till present.
+- Only 27% of these cases resulted in an arrest, with a total count of **281,225** arrests made.
+- 17% percent of these cases where domestic, with a total count of **174,533**.
+- Crime was at an all time in 2001 and 2002 with total count of **484,154** and **382,497** respectively. There was a **99.39%** drop in crime in 2003 and it there wasnt any major difference in the crime rate in the years to come until 2023 when a **2000%** increase in crime under the IUCR and it's presently at a total count of **69,547.**
+- There are 33 distinct primary type of offenses in the IUCR dataset which can be seen in the report, Theft being the most prevalent crime, followed closely by Battery, Criminal damage, Narcotics and assualt in top 5 and domestic violence, non-criminal offense, human trafficking, ritualism, and other narcotic violations in bottom 5.
+- 
 
 ## Child-Related Crimes
 ![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/child-related%20crimes.jpg)
