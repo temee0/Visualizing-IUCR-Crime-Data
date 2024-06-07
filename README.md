@@ -15,12 +15,38 @@ Structured Query Language (SQL) was utilized to understand the crime dynamics, t
 - Data exploration
 - Data analysis
 ### PowerBI:
-- Dataset Importation
+- Dataset importation
 - DAX
-- Visual Tools
-- Page Navigation
+- Data modelling
+- Visual tools
+- Page navigation
 - Bookmarks
 - Buttons
 - Filters
 - Tooltips
   
+## Modelling
+Automatically derived relationships have been adjusted to remove or replace unwanted relationships with the required relationships.
+
+![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/data%20model.jpg)
+
+## Visualization
+This report comprises of 4 pages 
+- General crimes
+- Child-Related Crimes
+- Sex crimes
+- Homicides
+      
+You can interact with the report [here]()
+
+## General Crimes
+![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/general%20crimes.jpg)
+
+## Child-Related Crimes
+![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/child-related%20crimes.jpg)
+
+## Sex Crimes
+![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/sex%20crimes.jpg)
+
+## Homicides
+![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/homicides.jpg)
