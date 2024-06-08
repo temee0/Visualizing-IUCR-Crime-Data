@@ -89,9 +89,16 @@ You can interact with the report [here]()
 - A total count of **23,988** sex crimes were recorded under IUCR between 2001 till present.
 - 61% of these cases resulted in arrest, with a total count of **14,550** arrests made.
 - only 11% of these cases were domestic with a total count of **2630**.
-- sex crimes were at an all time high in 2001 and 2002 wiith a total count of **11,172** and **8798** respectively. there was a **99.60%** drop in crime in 2003, this drop lasted until 2007 when the sex crime count started on an upward trend and experienced a huge spike in 2023 when sex crimes increased by **450%** and is presently at **1026.**
+- sex crimes were at an all time high in 2001 and 2002 wiith a total count of **11,172** and **8798** respectively. there was a **99.60%** drop in crime in 2003, this drop lasted until 2007 when the sex crime count started on an upward 
+trend and experienced a huge spike in 2023 when sex crimes increased by **450%** and is presently at **1026.**
 - there are six distinct primary type of offenses under this subcategory. the most prevalent of these offenses is prostitution with a total count of **11,172** and the least occuring is human trafficking with just **5** cases reported.
 - The top locations for sex crimes are streets, residence, apartment, and sidewalks, while the least common location for sex crimes are airports, boat/watercraft, and appliance stores
+
 ## Homicides
 ![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/homicides.jpg)
-
+- A total count of **13,087** homicides was recorded under IUCR between 2001 till present.
+- 47% of these cases resulted in an arrest, with a total count of **6181** arrests made.
+- only 7% of theses cases were domestic with a total count of **907.**
+- the total countof homicides was **667* in 2001 and dropped by 25% in 2004 it made little changes or movement until 2016 when it increased by 59% and reached an all time high in 2021 where the count went up to 806. currently count of homicides is at 136, which is a 78% drop from the previous year.
+- there is only one primary type of offense under this subsector and it homicied which is described in two ways first degree murder and reckless homicide. the most prevalent is first degree murder which is 99.97% with a total count of **13,083** cases and reckless homicide with just **4** cases reported.
+- the top locations for homicides are streets, auto, apartment, alley, and house. while thr least common location for homicides are loading dock, lagoon, laundromat, funeral parlour, beach.
