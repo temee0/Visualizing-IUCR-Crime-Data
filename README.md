@@ -64,7 +64,7 @@ This report comprises of 4 pages
 - Sex crimes
 - Homicides
       
-You can interact with the report [here]()
+You can interact with the report [here](https://drive.google.com/file/d/1056X5TvWRvZHeRB6buDS7v-_wdq19rKy/view?usp=drivesdk)
 
 ## Page Navigation
 ![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/navigation%20panel.jpg)    
@@ -138,7 +138,7 @@ In conclusion, by implementing these recommendations comprehensively, we endeavo
 
 ---
 
-![]()  
+![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/thank%20youuuu.jpg)  
 #### Thank you for taking the time to read through this report.
 
 
