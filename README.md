@@ -86,7 +86,7 @@ Between 2001 and the present, a total of **34,292** child-related crimes (crimes
 
 - **Arrests**: **30%** of these cases resulted in an arrest, with a total of **10,118** arrests made.
 - **Domestic Cases**: Only **10%** of these cases were domestic, with a total count of **3,523**.
-- **Historical Trends**: Child-related crimes were at an all-time high in 2001 and 2002, with total counts of **16,737** and **13,233** respectively. In 2003, there was a **99.89%** drop in crime, which remained very low before experiencing a significant increase **1400%** in 2023, and the current count for 2024 stands at **1,715**.
+- **Historical Trends**: Child-related crimes were at an all-time high in 2001 and 2002, with total counts of **16,737** and **13,233** respectively. In 2003, there was a **99.89%** drop in crime, which remained very low before experiencing a significant increase of **1400%** in 2023, and the current count for 2024 stands at **1,715**.
 - **Offense Types**: Battery was the most prevalent crime under child-related crimes, followed closely by Assault, Offenses Involving Children, Theft, and Liquor Law Violations. The least common offenses include Prostitution, Interference with Public Officer, Obscenity, Homicide, and Stalking.
 - **Crime Locations**: The top locations for child-related crimes are schools, residences, apartments, and streets. The least common locations for child-related crimes are airport buildings (non-terminal), savings and loan institutions, appliance stores, athletic clubs, and movie theaters.
 
@@ -114,4 +114,35 @@ Between 2001 and the present, a total of **13,087** homicides were recorded unde
 ![](https://github.com/temee0/Visualizing-IUCR-Crime-Data/blob/main/word-cloud%20(3).jpeg)
 **The following word cloud represents the frequency of words found in the offense descriptions within the dataset. The size of each word is proportional to its frequency of occurrence; larger words appeared more frequently than smaller ones.**
 
-## Conclusions
+## Conclusion
+Although crime rate dropped in 2003, and stayed stable, which can be accounted for other crimes not reported but since 2023 crime has also increased and is skyrocketing similarly to early 2000s, this can be due to the current economy situation and other systemic issues. Additionally, it is crucial to differentiate between trends in overall crime rates and specific categories such as homicides. The homicide rate has increased significantly in recent years and, although it is at an all-time low in 2024, the year is not yet over, and there may still be changes in the coming months.
+
+This report has highlighted a significant disparity between the number of arrests and the number of crimes committed. For example, the percentage of arrests made in theft cases is **14%**, in burglary and criminal damage cases it is **7%**, in burglary cases alone it is **9%**, in criminal sexual assault cases it is **18%**, and in kidnapping cases it is **12%**. 
+
+In response to the recent increase in crime rates, the number of domestic cases has also risen.
+
+The most common location for overall crimes and other subsections is the street, except in child-related crimes, where the top location is school. Other common locations for crimes include residences, apartments, and sidewalks. However, in the homicide subsection, residences and sidewalks do not rank among the top ten locations.
+
+## Recommendation
+In response to the findings outlined in this analysis, I propose a multifaceted approach to address the recent surge in crime rates and the observed disparities in arrest counts. First and foremost, there is a pressing need to increase law enforcement efforts. This entails enhancing police presence and surveillance in areas identified as high-crime zones, particularly on streets, in residential areas, apartments, and sidewalks. By enhancing visibility and proactive policing strategies, we aim to deter criminal activities and improve arrest rates.
+
+Moreover, targeted intervention programs are essential to tackle the root causes of the escalating homicide rates and other violent crimes. These programs should encompass community outreach initiatives, conflict resolution training, and support services tailored to at-risk individuals. By addressing underlying socio-economic factors contributing to criminal behavior, we can work towards long-term crime prevention.
+
+Additionally, there is a critical need to streamline crime reporting mechanisms and enhance response protocols. Timely and accurate data collection is pivotal in facilitating effective law enforcement responses and resource allocation. Strengthening community-police partnerships is equally vital. By fostering trust and collaboration through neighborhood watch programs, community policing initiatives, and public safety campaigns, we can empower communities to play an active role in crime prevention efforts.
+
+Given the notable increase in domestic cases amid the overall rise in crime rates, it is imperative to prioritize support services for victims of domestic violence. This includes the provision of shelters, counseling, and legal aid. Furthermore, specialized training for law enforcement officers is important in handling sensitive cases such as domestic violence and sexual assault with empathy and expertise.
+
+Advocating for policy reforms is also imperative in addressing systemic issues underlying crime, including poverty, unemployment, and inadequate education. Comprehensive social policies aimed at improving living conditions and socioeconomic opportunities can yield sustainable reductions in crime rates over time.
+
+In conclusion, by implementing these recommendations comprehensively, we endeavor to curb the upward trend in crime rates and foster a safer and more secure environment for all members of the community.
+
+---
+
+![]()  
+#### Thank you for taking the time to read through this report.
+
+
+
+
+
+
